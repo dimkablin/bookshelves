@@ -40,14 +40,13 @@ https://img.shields.io/badge/Apache_2.0-green?style=flat&label=license
 
 # Установка 
 
-### Установка
 
 Для установки и запуска данного проекта, выполните следующие шаги:
 
 1. **Клонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/yourusername/bookshelves.git
+   git clone https://github.com/dimkablin/bookshelves.git
    cd bookshelves
    ```
 
