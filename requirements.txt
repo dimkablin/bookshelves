@@ -1,0 +1,4 @@
+gradio
+openpyxl
+faster_whisper
+llama_cpp
